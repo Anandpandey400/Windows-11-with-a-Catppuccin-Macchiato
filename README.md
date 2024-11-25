@@ -14,7 +14,7 @@ Here's my customized Windows 11 setup inspired by the Catppuccin Macchiato theme
 
 
 # Home Page
-![LS20241126014152](https://github.com/user-attachments/assets/1e1dd205-4f39-46a4-b709-7624aaf30b9f)
+![RDT_20241126_0128451676822133477552371](https://github.com/user-attachments/assets/336ba5d7-e813-4a53-863a-874448013b7c)
 
 # Winfetch
 ![RDT_20241126_0128503139014769701439793](https://github.com/user-attachments/assets/0f7677e2-f6a1-4e5a-8273-69c4deeda91a)
