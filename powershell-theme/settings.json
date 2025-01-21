@@ -1,0 +1,623 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "copy",
+                "singleLine": false
+            },
+            "id": "User.copy.644BA8F2",
+            "keys": "ctrl+c"
+        },
+        {
+            "command": 
+            {
+                "action": "switchToTab",
+                "index": 0
+            },
+            "id": "User.switchToTab.D3F0B923",
+            "keys": "alt+1"
+        },
+        {
+            "command": "unbound",
+            "keys": "alt+shift+d"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+2"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+3"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+alt+1"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+alt+2"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+alt+3"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+alt+4"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+alt+5"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+l"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+4"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+5"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+s"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+6"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+1"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+u"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+m"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+7"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+8"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+9"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+w"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "command": 
+            {
+                "action": "switchToTab",
+                "index": 4
+            },
+            "id": "User.switchToTab.F747588A",
+            "keys": "alt+5"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 1,
+                "profile": "{dfe4ce4c-cbe6-4591-bebe-572974df96f5}",
+                "startingDirectory": "C:\\Users\\Anand Pandey"
+            },
+            "id": "User.newTab.1FA5EB5"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 1
+            },
+            "id": "User.newTab.1FA5EB5",
+            "keys": "ctrl+2"
+        },
+        {
+            "command": "paste",
+            "id": "User.paste",
+            "keys": "ctrl+v"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 2
+            },
+            "id": "User.newTab.CCE909E3",
+            "keys": "ctrl+3"
+        },
+        {
+            "command": 
+            {
+                "action": "switchToTab",
+                "index": 3
+            },
+            "id": "User.switchToTab.6CD791B",
+            "keys": "alt+4"
+        },
+        {
+            "command": "find",
+            "id": "User.find",
+            "keys": "ctrl+f"
+        },
+        {
+            "command": 
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "splitMode": "duplicate"
+            },
+            "id": "User.splitPane.A6751878",
+            "keys": "ctrl+enter"
+        },
+        {
+            "command": 
+            {
+                "action": "switchToTab",
+                "index": 1
+            },
+            "id": "User.switchToTab.2A0DA8E0",
+            "keys": "alt+2"
+        },
+        {
+            "command": 
+            {
+                "action": "switchToTab",
+                "index": 2
+            },
+            "id": "User.switchToTab.87C324ED",
+            "keys": "alt+3"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 3
+            },
+            "id": "User.newTab.F4C304FB",
+            "keys": "ctrl+4"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 5,
+                "profile": "{dfe4ce4c-cbe6-4591-bebe-572974df96f5}",
+                "startingDirectory": "C:\\Users\\Anand Pandey"
+            },
+            "id": "User.newTab.663EF760",
+            "keys": "ctrl+6"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 0
+            },
+            "id": "User.newTab.7975BEED",
+            "keys": "ctrl+1"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 4
+            },
+            "id": "User.newTab.89E6CA61",
+            "keys": "ctrl+5"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 6
+            },
+            "id": "User.newTab.B1B78DBA"
+        },
+        {
+            "command": 
+            {
+                "action": "newTab",
+                "index": 7
+            },
+            "id": "User.newTab.E694A910"
+        },
+        {
+            "command": "closePane",
+            "id": "User.closePane",
+            "keys": "ctrl+k"
+        }
+    ],
+    "centerOnLaunch": true,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "initialCols": 116,
+    "initialRows": 26,
+    "launchMode": "default",
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "backgroundImage": null,
+            "colorScheme": "Catppuccin Macchiato",
+            "cursorShape": "filledBox",
+            "experimental.retroTerminalEffect": false,
+            "font": 
+            {
+                "face": "JetBrainsMonoNL Nerd Font Mono"
+            },
+            "opacity": 100,
+            "useAcrylic": true
+        },
+        "list": 
+        [
+            {
+                "colorScheme": "Catppuccin Macchiato",
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -nologo",
+                "cursorShape": "bar",
+                "font": 
+                {
+                    "face": "JetBrainsMonoNL Nerd Font Mono",
+                    "size": 15
+                },
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell",
+                "opacity": 90,
+                "startingDirectory": "home directory",
+                "useAcrylic": false
+            },
+            {
+                "colorScheme": "Catppuccin Macchiato",
+                "commandline": "directory to lf",
+                "cursorShape": "bar",
+                "experimental.retroTerminalEffect": false,
+                "font": 
+                {
+                    "face": "JetBrainsMonoNL Nerd Font Mono",
+                    "size": 17
+                },
+                "guid": "{c2345d3d-ec5a-4054-85a9-fa64e737e0ca}",
+                "hidden": false,
+                "name": "Files",
+                "opacity": 90,
+                "startingDirectory": "C:\\Users\\Anand Pandey\\Home",
+                "useAcrylic": false
+            },
+            {
+                "colorScheme": "Catppuccin Macchiato",
+                "commandline": "dirctory to musikcube",
+                "guid": "{9396978d-9645-4023-a191-a2476548196f}",
+                "hidden": false,
+                "icon": "C:\\Users\\Anand Pandey\\.config\\musikcube\\music-record-512.png",
+                "name": "MusikCube",
+                "opacity": 90,
+                "tabTitle": "MusikCube",
+                "useAcrylic": false
+            },
+            {
+                "colorScheme": "Catppuccin Macchiato",
+                "commandline": "C:\\ProgramData\\chocolatey\\bin\\fzf.exe",
+                "font": 
+                {
+                    "face": "JetBrainsMonoNL Nerd Font Mono"
+                },
+                "guid": "{4abced10-4e0d-4d85-8793-f9d3c9146bed}",
+                "hidden": false,
+                "name": "Find",
+                "opacity": 90,
+                "startingDirectory": "C:\\Users\\Anand Pandey\\Home",
+                "useAcrylic": false
+            },
+            {
+                "altGrAliasing": true,
+                "antialiasingMode": "grayscale",
+                "closeOnExit": "automatic",
+                "colorScheme": "Catppuccin Macchiato",
+                "commandline": "C:\\Users\\Anand Pandey\\.config\\Helix\\hx.exe",
+                "cursorShape": "bar",
+                "font": 
+                {
+                    "face": "JetBrainsMonoNL Nerd Font Mono",
+                    "size": 15
+                },
+                "guid": "{d8fc2352-52f7-4e4d-9a41-438aaaaefb60}",
+                "hidden": false,
+                "historySize": 9001,
+                "name": "Helix",
+                "opacity": 90,
+                "padding": "8, 8, 8, 8",
+                "snapOnInput": true,
+                "useAcrylic": false
+            },
+            {
+                "altGrAliasing": true,
+                "antialiasingMode": "grayscale",
+                "closeOnExit": "automatic",
+                "colorScheme": "Catppuccin Macchiato",
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "cursorShape": "bar",
+                "elevate": true,
+                "font": 
+                {
+                    "size": 12
+                },
+                "guid": "{dfe4ce4c-cbe6-4591-bebe-572974df96f5}",
+                "hidden": false,
+                "historySize": 9001,
+                "icon": "ms-appx:///ProfileIcons/{61c54bbd-c2c6-5271-96e7-009a87ff44bf}.png",
+                "name": "Windows PowerShell (Admin)",
+                "opacity": 90,
+                "padding": "8, 8, 8, 8",
+                "snapOnInput": true,
+                "startingDirectory": "%USERPROFILE%",
+                "useAcrylic": false
+            }
+        ]
+    },
+    "schemes": 
+    [
+        {
+            "background": "#303446",
+            "black": "#51576D",
+            "blue": "#8CAAEE",
+            "brightBlack": "#626880",
+            "brightBlue": "#8CAAEE",
+            "brightCyan": "#81C8BE",
+            "brightGreen": "#A6D189",
+            "brightPurple": "#F4B8E4",
+            "brightRed": "#E78284",
+            "brightWhite": "#A5ADCE",
+            "brightYellow": "#E5C890",
+            "cursorColor": "#F2D5CF",
+            "cyan": "#81C8BE",
+            "foreground": "#C6D0F5",
+            "green": "#A6D189",
+            "name": "Catppuccin Frappe",
+            "purple": "#F4B8E4",
+            "red": "#E78284",
+            "selectionBackground": "#626880",
+            "white": "#B5BFE2",
+            "yellow": "#E5C890"
+        },
+        {
+            "background": "#EFF1F5",
+            "black": "#5C5F77",
+            "blue": "#1E66F5",
+            "brightBlack": "#ACB0BE",
+            "brightBlue": "#1E66F5",
+            "brightCyan": "#179299",
+            "brightGreen": "#40A02B",
+            "brightPurple": "#EA76CB",
+            "brightRed": "#D20F39",
+            "brightWhite": "#BCC0CC",
+            "brightYellow": "#DF8E1D",
+            "cursorColor": "#DC8A78",
+            "cyan": "#179299",
+            "foreground": "#4C4F69",
+            "green": "#40A02B",
+            "name": "Catppuccin Latte",
+            "purple": "#EA76CB",
+            "red": "#D20F39",
+            "selectionBackground": "#ACB0BE",
+            "white": "#ACB0BE",
+            "yellow": "#DF8E1D"
+        },
+        {
+            "background": "#24273A",
+            "black": "#494D64",
+            "blue": "#8AADF4",
+            "brightBlack": "#5B6078",
+            "brightBlue": "#8AADF4",
+            "brightCyan": "#8BD5CA",
+            "brightGreen": "#A6DA95",
+            "brightPurple": "#F5BDE6",
+            "brightRed": "#ED8796",
+            "brightWhite": "#A5ADCB",
+            "brightYellow": "#EED49F",
+            "cursorColor": "#F4DBD6",
+            "cyan": "#8BD5CA",
+            "foreground": "#CAD3F5",
+            "green": "#A6DA95",
+            "name": "Catppuccin Macchiato",
+            "purple": "#F5BDE6",
+            "red": "#ED8796",
+            "selectionBackground": "#5B6078",
+            "white": "#B8C0E0",
+            "yellow": "#EED49F"
+        },
+        {
+            "background": "#1E1E2E",
+            "black": "#45475A",
+            "blue": "#89B4FA",
+            "brightBlack": "#585B70",
+            "brightBlue": "#89B4FA",
+            "brightCyan": "#94E2D5",
+            "brightGreen": "#A6E3A1",
+            "brightPurple": "#F5C2E7",
+            "brightRed": "#F38BA8",
+            "brightWhite": "#A6ADC8",
+            "brightYellow": "#F9E2AF",
+            "cursorColor": "#F5E0DC",
+            "cyan": "#94E2D5",
+            "foreground": "#CDD6F4",
+            "green": "#A6E3A1",
+            "name": "Catppuccin Mocha",
+            "purple": "#F5C2E7",
+            "red": "#F38BA8",
+            "selectionBackground": "#585B70",
+            "white": "#BAC2DE",
+            "yellow": "#F9E2AF"
+        },
+        {
+            "background": "#282A36",
+            "black": "#21222C",
+            "blue": "#BD93F9",
+            "brightBlack": "#6272A4",
+            "brightBlue": "#D6ACFF",
+            "brightCyan": "#A4FFFF",
+            "brightGreen": "#69FF94",
+            "brightPurple": "#FF92DF",
+            "brightRed": "#FF6E6E",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FFFFA5",
+            "cursorColor": "#F8F8F2",
+            "cyan": "#8BE9FD",
+            "foreground": "#F8F8F2",
+            "green": "#50FA7B",
+            "name": "Dracula",
+            "purple": "#FF79C6",
+            "red": "#FF5555",
+            "selectionBackground": "#44475A",
+            "white": "#F8F8F2",
+            "yellow": "#F1FA8C"
+        },
+        {
+            "background": "#300A24",
+            "black": "#171421",
+            "blue": "#0037DA",
+            "brightBlack": "#767676",
+            "brightBlue": "#08458F",
+            "brightCyan": "#2C9FB3",
+            "brightGreen": "#26A269",
+            "brightPurple": "#A347BA",
+            "brightRed": "#C01C28",
+            "brightWhite": "#F2F2F2",
+            "brightYellow": "#A2734C",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#3A96DD",
+            "foreground": "#FFFFFF",
+            "green": "#26A269",
+            "name": "Ubuntu-ColorScheme",
+            "purple": "#881798",
+            "red": "#C21A23",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CCCCCC",
+            "yellow": "#A2734C"
+        }
+    ],
+    "theme": "Catppuccin Macchiato",
+    "themes": 
+    [
+        {
+            "name": "Catppuccin Frappe",
+            "tab": 
+            {
+                "background": "#303446FF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": 
+            {
+                "background": "#292C3CFF",
+                "unfocusedBackground": "#232634FF"
+            },
+            "window": 
+            {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        },
+        {
+            "name": "Catppuccin Latte",
+            "tab": 
+            {
+                "background": "#EFF1F5FF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": 
+            {
+                "background": "#E6E9EFFF",
+                "unfocusedBackground": "#DCE0E8FF"
+            },
+            "window": 
+            {
+                "applicationTheme": "light",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        },
+        {
+            "name": "Catppuccin Macchiato",
+            "tab": 
+            {
+                "background": "#24273AFF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": 
+            {
+                "background": "#1E2030FF",
+                "unfocusedBackground": "#181926FF"
+            },
+            "window": 
+            {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        },
+        {
+            "name": "Catppuccin Mocha",
+            "tab": 
+            {
+                "background": "#1E1E2EFF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": 
+            {
+                "background": "#181825FF",
+                "unfocusedBackground": "#11111BFF"
+            },
+            "window": 
+            {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        }
+    ]
+}
